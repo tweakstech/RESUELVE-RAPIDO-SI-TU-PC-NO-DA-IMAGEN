@@ -1,5 +1,13 @@
 # ⚠️🔥 ¡RESUELVE RÁPIDO SI TU PC NO DA IMAGEN! 🔧💻
 
+# Índice
+
+- [🔧 Primer Intento: **¡DESCONECTA TODO!**](#-primer-intento-desconecta-todo)
+- [🔍 Segundo Intento: **¡PRUEBA LA MEMORIA RAM!**](#-segundo-intento-prueba-la-memoria-ram)
+- [🔄 Tercer Intento: **¡REINICIA LA BIOS!**](#-tercer-intento-reinicia-la-bios)
+- [⚡ Cuarto Intento: **¡CAMBIA LA FUENTE DE PODER!**](#-cuarto-intento-cambia-la-fuente-de-poder)
+- [🔧 Quinto y Último Intento: **¡REVISIÓN DE COMPONENTES!**](#-quinto-y-último-intento-revisión-de-componentes)
+
 ## 🔧 Primer Intento: **¡DESCONECTA TODO!**
 1. **Desconecta todo** y deja solo lo básico:
    - Placa base
