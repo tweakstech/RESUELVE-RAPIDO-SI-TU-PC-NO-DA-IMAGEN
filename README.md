@@ -68,7 +68,7 @@
 > Desconectar todo puede ayudar a identificar si un componente defectuoso está causando el problema.
 
 > [!TIP]
-> **¿Nada de esto funciona?** Bueno, en ese caso, puedes intentar pegarle un golpe a la torre. 🖥️💥 A veces, el buen viejo "método del golpe" puede hacer magia... o al menos ofrecerte un buen espectáculo. 😅🤷‍♂️
+> **¿Nada de esto funciona?** ¡Perfecto! Estás en el camino correcto. 🙄 Tal vez un buen golpe a la torre pueda hacer el truco. 🖥️💥 Después de todo, es una técnica avanzada que solo los expertos conocen. 😏 Si tu PC responde al "tratamiento de choque", ¡felicitaciones! 😅🤷‍♂️
 
 ---
 
