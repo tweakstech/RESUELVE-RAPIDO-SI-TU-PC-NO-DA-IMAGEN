@@ -7,6 +7,7 @@
 - [🔄 Tercer Intento: **¡REINICIA LA BIOS!**](#-tercer-intento-reinicia-la-bios)
 - [⚡ Cuarto Intento: **¡CAMBIA LA FUENTE DE PODER!**](#-cuarto-intento-cambia-la-fuente-de-poder)
 - [🔧 Quinto y Último Intento: **¡REVISIÓN DE COMPONENTES!**](#-quinto-y-último-intento-revisión-de-componentes)
+- [🔍 Posibles Problemas Adicionales: **¡MEMORIAS Y PASTA TÉRMICA!**](#-posibles-problemas-adicionales-memorias-y-pasta-t%C3%A9rmica)
 
 ## 🔧 Primer Intento: **¡DESCONECTA TODO!**
 1. **Desconecta todo** y deja solo lo básico:
@@ -69,6 +70,21 @@
 
 > [!NOTE]
 > Desconectar todo puede ayudar a identificar si un componente defectuoso está causando el problema.
+
+## 🔍 Posibles Problemas Adicionales: **¡MEMORIAS Y PASTA TÉRMICA!**
+1. **Problemas con las memorias RAM**:
+   - **No dar imagen**: Si la PC no muestra imagen, una posible causa es que las memorias RAM no estén haciendo buen contacto.
+   - **Limpieza de contactos**: Usa una goma de borrar para limpiar suavemente los contactos de las memorias RAM. Esto puede ayudar a eliminar la suciedad o la oxidación que impida el buen contacto.
+   
+> [!TIP]
+> Asegúrate de apagar el sistema y desconectarlo de la fuente de alimentación antes de manipular las memorias RAM.
+
+2. **Exceso de pasta térmica**:
+   - **Demasiada pasta térmica** puede causar problemas de contacto entre el procesador y el disipador, lo que podría llevar a problemas de sobrecalentamiento o a que no se muestre imagen.
+   - **Aplicación correcta**: Revisa la cantidad de pasta térmica aplicada. Debe ser una cantidad del tamaño de un guisante en el centro del procesador. Evita aplicar una cantidad excesiva.
+
+> [!NOTE]
+> Si has aplicado demasiada pasta térmica, límpiala cuidadosamente y aplica una nueva capa en la cantidad recomendada. Esto puede mejorar la disipación del calor y la estabilidad del sistema.
 
 > [!TIP]
 > **¿Nada de esto funciona?** ¡Perfecto! Estás en el camino correcto. 🙄
