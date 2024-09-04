@@ -26,6 +26,9 @@
 >
 > Conecta el monitor al puerto correcto según la configuración de tu sistema.
 
+> [!TIP]
+> **Verifica los cables**: Asegúrate de que todos los cables estén bien conectados y haciendo buen contacto. Si tienes un cable adicional o más nuevo disponible, prueba cambiarlo para descartar un posible fallo del cable actual.
+
 ## 🔍 Segundo Intento: **¡PRUEBA LA MEMORIA RAM!**
 1. Realiza el mismo proceso, pero:
    - Prueba la memoria RAM módulo por módulo.
