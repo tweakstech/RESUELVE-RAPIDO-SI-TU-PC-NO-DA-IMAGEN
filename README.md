@@ -12,7 +12,11 @@
 > Desconectar todo puede ayudar a identificar si un componente defectuoso está causando el problema.
 
 > [!TIP]
-> **Verifica la conexión del monitor**: Si estás utilizando una tarjeta gráfica dedicada, asegúrate de conectar el monitor al puerto HDMI de la tarjeta gráfica. Las tarjetas gráficas dedicadas y los gráficos integrados pueden tener puertos predeterminados diferentes. Por ejemplo, si la tarjeta gráfica dedicada tiene un puerto VGA como predeterminado y el monitor está conectado a HDMI, no se mostrará imagen. De igual manera, si estás usando gráficos integrados y el monitor está conectado a un puerto de la tarjeta gráfica dedicada, no verás imagen. Conecta el monitor al puerto correcto según la configuración de tu sistema.
+> **Verifica la conexión del monitor**: Si estás utilizando una tarjeta gráfica dedicada, asegúrate de conectar el monitor al puerto HDMI de la tarjeta gráfica. Las tarjetas gráficas dedicadas y los gráficos integrados pueden tener puertos predeterminados diferentes.
+>
+> Por ejemplo, si la tarjeta gráfica dedicada tiene un puerto VGA como predeterminado y el monitor está conectado a HDMI, no se mostrará imagen. De igual manera, si estás usando gráficos integrados y el monitor está conectado a un puerto de la tarjeta gráfica dedicada, no verás imagen.
+>
+> Conecta el monitor al puerto correcto según la configuración de tu sistema.
 
 ## 🔍 Segundo Intento: **¡PRUEBA LA MEMORIA RAM!**
 1. Realiza el mismo proceso, pero:
