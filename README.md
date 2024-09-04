@@ -67,6 +67,9 @@
 > [!NOTE]
 > Desconectar todo puede ayudar a identificar si un componente defectuoso está causando el problema.
 
+> [!TIP]
+> **¿Nada de esto funciona?** Bueno, en ese caso, puedes intentar pegarle un golpe a la torre. 🖥️💥 A veces, el buen viejo "método del golpe" puede hacer magia... o al menos ofrecerte un buen espectáculo. 😅🤷‍♂️
+
 ---
 
 ## Licencia
